@@ -4,7 +4,7 @@ import asyncio
 from itertools import cycle 
 
 
-TOKEN = 'NDc4NzcyMjIzMjk4MjQwNTE0.Dq564A.AMZ5hwfG80TI81BbDGcqLGap0qs'
+TOKEN = ''                               #token value hidden to keep the bot's info hidden
 
 status = ["Sleeping", "Eating", "Gaming", "Anime Time", "Eating"]
 bot = commands.Bot(command_prefix = '.')
